@@ -1,7 +1,7 @@
 {
   "name": "hubot-country",
   "description": "Returns country data, using countryjs.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "hashashin <gentoo.power@gmail.com>",
   "license": "MIT",
   "keywords": [
