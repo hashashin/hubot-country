@@ -5,8 +5,14 @@
 #   none
 #
 # Commands:
-#   hubot hello - <what the respond trigger does>
-#   orly - <what the hear trigger does>
+#   hubot country name - Returns name for a specified country
+#   hubot country area - Returns area (km²) for a specified country
+#   hubot country capital - Returns capital city for a specified country
+#   hubot country demonym - Returns the demonyms for a specified country
+#   hubot country population - Returns approximate population for a specified country
+#   hubot country region - Returns general region for a specified country
+#   hubot country subregion - Returns a more specific region for a specified country
+#   hubot country wiki - Returns link to wikipedia page for a specified country
 #
 # Author:
 #   hashashin
