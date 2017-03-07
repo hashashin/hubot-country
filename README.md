@@ -1,6 +1,6 @@
 # hubot-country [![Build Status](https://img.shields.io/travis/hashashin/hubot-country.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/hashashin/hubot-country) [![npm](https://img.shields.io/npm/v/hubot-country.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/hubot-country)
 
-Returns country data, ISO info and states/provinces within them. Using countryjs.
+Returns country data, using countryjs.
 
 See [`src/country.coffee`](src/country.coffee) for full documentation.
 
@@ -19,11 +19,6 @@ Then add **hubot-country** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
-```
-
-```
-user1>> hubot orly
-hubot>> yarly
+user1>> hubot country name US
+hubot>> United States
 ```
